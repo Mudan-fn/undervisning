@@ -1,0 +1,5 @@
+person0 k 68
+person1 k 28
+person2 m 63
+person3 k 54
+person4 k 45
